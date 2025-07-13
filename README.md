@@ -1,4 +1,3 @@
-<img width="1483" height="197" alt="image" src="https://github.com/user-attachments/assets/bed42df3-ec9c-4301-b0e8-b1d29d267fca" /># Multitude
 Multitude is simple but powerful proxy manager
 
 To work with regions download GeoLite2-City.mmdb database from https://github.com/P3TERX/GeoLite.mmdb and place it in multitude_storage
